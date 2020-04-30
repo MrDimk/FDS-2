@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAEA;EACI,OAHO;;;AAMX;EACI;EACA;EACA;EACA","file":"main.1f19ae8e.css","sourceRoot":"..\\src","sourcesContent":["$color_h1: tomato;\r\n\r\nh1 {\r\n    color: $color_h1;\r\n}\r\n\r\n.ui-kit {\r\n    display: block;\r\n    width: 800px;\r\n    height: 200px;\r\n    background-color: #eef;\r\n}"]}

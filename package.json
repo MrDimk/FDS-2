@@ -1,0 +1,26 @@
+{
+  "name": "FSD-2",
+  "version": "1.0.0",
+  "description": "FSD - Задание 2. Практика верстки.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.pug --open",
+    "build": "parcel build src/index.pug -d docs --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDimk/FSD-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDimk/FSD-2/issues"
+  },
+  "homepage": "https://github.com/MrDimk/FSD-2#readme",
+  "devDependencies": {
+    "pug": "^2.0.4",
+    "sass": "^1.26.5"
+  }
+}
