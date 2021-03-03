@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/MrDimk/FSD-2#readme",
   "devDependencies": {
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "sass": "^1.26.5"
   }
 }
